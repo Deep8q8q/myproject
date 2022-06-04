@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+  scroll-behavior: smooth;
+}
+.top1{
+  width: 20%;
+  height: 90px;
+  background-color: black;
+  float: left;
+}
+.top{
+	 width: 80%;
+   height: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding:;
+  align-items: center;
+  position:   ;
+  z-index: ;
+  color: white;
+  float: right;
+  background-color:  black;
+  background-image:;
+  background-size: cover;
+}
+ #menu li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+  }
+  #menu li a{
+    color:  white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+  
+  #a{
+    width: 100%;
+    height: 650px;
+    background-color: gray;
+    background-image: url(https://cdn.pixabay.com/photo/2016/10/18/09/02/hotel-1749602_960_720.jpg);
+    background-size: cover;
+    opacity: 0.8;
+  }
+  #aa{
+    width: 100%;
+    height: 300px;
+    background-color: gray;
+    background-image: url(https://st3.depositphotos.com/1875497/18141/i/600/depositphotos_181413074-stock-photo-abstract-blur-bedroom.jpg);
+    background-size: cover;
+    opacity: 0.8;
+    margin-top: 18px;
+  }
+  #b{
+    width: 20%;
+    height: 270px;
+    background-color: gray;
+    opacity: 0.9;
+    float: right;
+  }
+  #c{
+    width: 100%;
+    height: 350px;
+    background-image: url(https://media.istockphoto.com/photos/bed-at-hotel-room-background-blurred-and-defocused-picture-id1012020202?k=20&m=1012020202&s=170667a&w=0&h=X3gSK3cM_EDbbZFnWtpJU4ssuJy9eATUAbGR5ynSjZw=);
+    background-size: cover;
+  }
+  #foot{
+    width: 100%;
+    height: 550px;
+    background-color: gray;
+    background-image: url(https://www.lsh.co.uk/-/media/images/lsh/background-images/sectors/hotels/hotels.ashx?h=920&w=1700&la=en&hash=048DCFF6672CE9E3961DB5B8E5563B90EAC2C498);
+    opacity: 0.8;
+    background-size: cover;
+  }
